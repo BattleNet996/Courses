@@ -1,5 +1,5 @@
-# 【待解决的问题】
-# 为什么会频繁输出“turning right”，也就是说为什么turn right不会终止，即使我们探测到左侧已经没有障碍物了！
+# author：Charles Chen
+# time: 2021.12.24
 import RPi.GPIO as GPIO
 import time
 import threading
